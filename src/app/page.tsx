@@ -11,6 +11,13 @@ export default function Home() {
         <button>
           icon <menu>new test</menu>
         </button>
+        <Image
+          src="/next.svg"
+          alt="Next.js Logo"
+          width={180}
+          height={37}
+          priority
+        />
       </div>
     </div>
   );
