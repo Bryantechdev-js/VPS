@@ -48,7 +48,8 @@ export default function Home() {
           <p className="text-lg text-gray-700">
             Our school is dedicated to providing quality education and fostering a
             supportive community. We believe in holistic development and nurturing
-            every student's potential.
+            every student&#39;s potential.
+
           </p>
         </div>
       </section>
